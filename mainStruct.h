@@ -15,3 +15,14 @@ struct WordInfo {
 	vector<string> def;
 	vector<string> examples;
 };
+
+struct Wordlist {
+	WordInfo info;
+	Wordlist* left;
+	Wordlist* right;
+};
+
+struct hashing {
+	Wordlist* head;
+	Wordlist* tail;
+}
