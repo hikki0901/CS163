@@ -14,3 +14,5 @@ https://docs.google.com/document/d/1V3WoDjQynizU5gBTSmiI_nXYXPTte_ecksel10n6B2o/
 
 - trello link:
 https://trello.com/b/mqGxW5jM/group12-21apcs2
+
+- reference: https://drive.google.com/drive/folders/1s79yY8R_l8ehqnT2SjNaNZ2M93WOYBRF?usp=sharing
