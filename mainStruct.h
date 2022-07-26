@@ -15,7 +15,8 @@ struct WordInfo {
 	vector<string> def;
 	vector<string> examples;
 	
-	int maxWordsCount = 0;
+	int curWordsCount = 0;
+	int maxWordsCount = 3;
 };
 
 struct Wordlist {
