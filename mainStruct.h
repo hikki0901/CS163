@@ -17,6 +17,8 @@ struct WordInfo {
 	
 	int curWordsCount = 0;
 	int maxWordsCount = 3;
+	string id;
+	bool addition;
 };
 
 struct Wordlist {
@@ -28,4 +30,4 @@ struct Wordlist {
 struct hashing {
 	Wordlist* head;
 	Wordlist* tail;
-}
+};
