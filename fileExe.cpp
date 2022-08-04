@@ -50,7 +50,7 @@ void fileRead(hashing*& dict) {
 	string r;
 	
 	if (fi.is_open()) {
-		while (getline(fi, dong)) {
+		while (getline(fi, r)) {
 			if (r == "") continue;
 			WordInfo p = transfer(r);
 		}
