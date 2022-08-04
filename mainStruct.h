@@ -17,7 +17,7 @@ struct WordInfo {
 	
 	int curWordsCount = 0;
 	int maxWordsCount = 3;
-	string id;
+	int id;
 	bool addition;
 };
 
