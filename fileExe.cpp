@@ -1,4 +1,8 @@
 #include "fileExe.h"
+#include "mainStruct.h"
+#include <string>
+
+using namespace std;
 
 WordInfo transfer(string r) {
     WordInfo tmp;
