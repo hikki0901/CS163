@@ -11,13 +11,10 @@ using namespace std;
 struct WordInfo {
 	string word;
 	string type;
-
-	vector<string> def;
-	vector<string> examples;
 	
-	int curWordsCount = 0;
-	int maxWordsCount = 3;
-	int id;
+	vector<string> def;
+	
+	int ID;
 	bool addition;
 };
 
