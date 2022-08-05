@@ -21,7 +21,7 @@ WordInfo transfer(string r) {
     }
     tmp.type = Type; i++;
     
-    tmp.curWordsCount = atoi(r[i]);
+    tmp.curWordsCount = int(r[i]) - 48;
     i += 2;
     
     while (r[i] != '/') {
