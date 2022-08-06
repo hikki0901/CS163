@@ -3,4 +3,9 @@
 #include <cstdlib>
 
 void fileRead(hashing*& dict);
-WordInfo transfer(string r);
+void fileWrite(hashing*& dict);
+void fileReset(hashing*& dict);
+
+void removeWord(hashing*& dict, WordInfo& word);
+WordList* transfer(string r);
+
