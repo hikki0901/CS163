@@ -1,11 +1,12 @@
+#include "mainStruct.h"
 #include <fstream>
 #include <string>
 #include <cstdlib>
 
-void fileRead(hashing*& dict);
-void fileWrite(hashing*& dict);
-void fileReset(hashing*& dict);
+void fileRead(Wordlist*& hashTable);
+void fileWrite(Wordlist*& hashTable);
+void fileReset(Wordlist*& hashTable);
 
-void removeWord(hashing*& dict, WordInfo& word);
-WordList* transfer(string r);
-
+void removeWord(Wordlist*& hashTable, WordInfo& word);
+void split(string s, vector<string>& defs);
+WordInfo transfer(string r);
