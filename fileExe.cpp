@@ -60,7 +60,7 @@ WordInfo transfer(string r) {
     return tmp;
 }
 
-void fileRead(hashing*& dict) {
+void fileRead(HashTable*& dict) {
   ifstream fi("words.txt");
 	string r;
 	
