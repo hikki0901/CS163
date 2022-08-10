@@ -10,8 +10,8 @@ using namespace std;
 
 struct WordInfo {
 	string word;
-	string type;
 	
+	vector<string> type;
 	vector<string> def;
 	
 	int ID;
@@ -22,9 +22,4 @@ struct Wordlist {
 	WordInfo info;
 	Wordlist* left;
 	Wordlist* right;
-};
-
-struct hashing {
-	Wordlist* head;
-	Wordlist* tail;
 };
