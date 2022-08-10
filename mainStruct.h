@@ -23,3 +23,8 @@ struct Wordlist {
 	Wordlist* left;
 	Wordlist* right;
 };
+
+struct HashTable {
+	WordList* head;
+	WordList* tail;
+}
