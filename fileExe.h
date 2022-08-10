@@ -3,10 +3,10 @@
 #include <string>
 #include <cstdlib>
 
-void fileRead(Wordlist*& hashTable);
-void fileWrite(Wordlist*& hashTable);
-void fileReset(Wordlist*& hashTable);
+void fileRead(HashTable* dict);
+void fileWrite(HashTable* dict);
+void fileReset(HashTable* dict);
 
-void removeWord(Wordlist*& hashTable, WordInfo& word);
+void removeWord(HashTable* dict, WordInfo& word);
 void split(string s, vector<string>& defs);
 WordInfo transfer(string r);
