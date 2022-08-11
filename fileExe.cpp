@@ -77,7 +77,7 @@ WordInfo transfer(string r) {
 }
 
 void fileRead(HashTable*& dict) {
-    ifstream fin("words.txt");
+    ifstream fin("word.txt");
 
     string r;
     int hash_id;
