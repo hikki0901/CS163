@@ -15,6 +15,7 @@ struct WordInfo {
 	vector<string> def;
 	
 	int ID;
+	int key = -1;
 	bool addition;
 };
 
