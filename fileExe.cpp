@@ -5,13 +5,13 @@ using namespace std;
 
 void InsertTable(HashTable*& dict, Wordlist* new_word) {
     int  i = new_word->info.key;
-    if (dict[i]->head == NULL) {
-        dict[i]->head = new_word;
-        dict[i]->tail = new_word;
+    if (dict[i].head == NULL) {
+        dict[i].head = new_word;
+        dict[i].tail = new_word;
     } else {
-        dict[i]->tail->right = new_word;
-        new_word->left = dict[i]->tail;
-        dict[i]->tail = new_word;
+        dict[i].tail->right = new_word;
+        new_word->left = dict[i].tail;
+        dict[i].tail = new_word;
     }
 }
 
@@ -92,7 +92,7 @@ void fileRead(HashTable*& dict) {
             tmp.key = hash_id;
             tmp.addition = false;
             
-            Wordlist* new_word = new_word Wordlist();
+            Wordlist* new_word = new Wordlist();
             new_word->info = tmp;
             
             InsertTable(dict, new_word);
