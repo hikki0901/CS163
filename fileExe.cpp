@@ -3,6 +3,18 @@
 
 using namespace std;
 
+void InsertTable(HashTable*& dict, Wordlist* new_word) {
+    int  i = new_word->info.key;
+    if (dict[i]->head == NULL) {
+        dict[i]->head = new_word;
+        dict[i]->tail = new_word;
+    } else {
+        dict[i]->tail->right = new_word;
+        new_word->left = dict[i]->tail;
+        dict[i]->tail = new_word;
+    }
+}
+
 void split(string s, vector<string>& defs){
     vector<int> pos;
     for (int i = 0; i < s.size(); i++)
@@ -19,12 +31,15 @@ void split(string s, vector<string>& defs){
 WordInfo transfer(string r) {
 
     WordInfo tmp;
-    int i = 0; string ID = "";
+    int i = 0; 
+    string ID = "";
 
     while ((int(r[i]) >= 48) && (int(r[i]) <= 57)) ID += r[i++];
-    tmp.ID = stoi(ID, 0, 10); r.erase(0, i + 1);
+    tmp.ID = stoi(ID, 0, 10); 
+    r.erase(0, i + 1);
 
-    i = 0; string w = "";
+    i = 0; 
+    string w = "";
     while (r[i] != ' ') w += r[i++];
     tmp.word = w;
 
@@ -33,7 +48,8 @@ WordInfo transfer(string r) {
         tmp.def.push_back(r);
         return tmp;
     } else {
-        i = 0; r.erase(0, i + 2);
+        r.erase(0, i + 2); 
+	i = 0; 
 
         if (r[i] != '-') {
             string t = "";
@@ -61,14 +77,27 @@ WordInfo transfer(string r) {
 }
 
 void fileRead(HashTable*& dict) {
-  ifstream fi("words.txt");
-	string r;
-	
-	if (fi.is_open()) {
-		while (getline(fi, r)) {
-			if (r == "") continue;
-			WordInfo p = transfer(r);
-		}
-		fi.close();
-	}
+    ifstream fin("words.txt");
+
+    string r;
+    int hash_id;
+    WordInfo tmp;
+
+    while (getline(fin, r)) {
+        if (r == "") continue;
+        int num =  int(r[0]);
+        if ((num < 48) || (num > 57)) hash_id = int(r[0]) - 65;
+        else {
+            tmp = transfer(r);
+            tmp.key = hash_id;
+            tmp.addition = false;
+            
+            Wordlist* new_word = new_word Wordlist();
+            new_word->info = tmp;
+            
+            InsertTable(dict, new_word);
+        }
+    }
+
+    fin.close();
 }
