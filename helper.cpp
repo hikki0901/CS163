@@ -36,7 +36,7 @@ WordInfo Trans(string r) {
 		return tmp;
 	}
 	else {
-		tmp.hashKey = int(r[0]) - 65;
+		tmp.hashKey = int(tmp.word[0]) - 65;
 		r.erase(0, i + 2); i = 0;
 
 		if (r[i] != '-') {
@@ -78,11 +78,27 @@ void InsertTable(HashTable*& dict, WordList* nWord) {
 
 bool wordCheck(string inp, WordList* w) {
 
-	if (inp.size() != w->info.word.size()) return false;
+	if (inp[0] == '-') inp = inp.substr(1, inp.size() - 1);
 
+	string tmp = "";
+	if (w->info.word[0] == '-')
+		tmp = w->info.word.substr(1, w->info.word.size() - 1);
+	else tmp = w->info.word;
+
+	tmp = ucFirstletter(tmp);
+	inp = ucFirstletter(inp);
+
+	if (inp.size() != tmp.size()) return false;
+	
 	for (int i = 0; i < inp.size(); i++)
-		if (inp[i] != w->info.word[i])
+		if (inp[i] != tmp[i])
 			return false;
 
 	return true;
+}
+
+string ucFirstletter(string s) {
+	if ((s[0] != ' ') && (int(s[0]) >= 97))
+		s[0] = s[0] - 32;
+	return s;
 }
