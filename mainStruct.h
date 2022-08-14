@@ -17,6 +17,7 @@ struct WordInfo {
 	int ID = 0;
 	int hashKey = -1;
 	bool addition;
+	bool fav = false;
 };
 
 struct WordList {
