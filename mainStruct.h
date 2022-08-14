@@ -1,31 +1,33 @@
 #pragma once
 #include <iostream>
 #include <fstream>
-#include <vector>
 
-#include <windows.h>
-#include <conio.h>
+#include <cstring>
+#include <vector>
 
 using namespace std;
 
 struct WordInfo {
-	string word;
+
+	string word = "";
 	
 	vector<string> type;
 	vector<string> def;
-	
-	int ID;
-	int key = -1;
+
+	int ID = 0;
+	int hashKey = -1;
 	bool addition;
 };
 
-struct Wordlist {
+struct WordList {
+
 	WordInfo info;
-	Wordlist* left;
-	Wordlist* right;
+	WordList* left;
+	WordList* right;
 };
 
 struct HashTable {
+
 	WordList* head;
 	WordList* tail;
-}
+};
