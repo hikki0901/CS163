@@ -2,7 +2,8 @@
 
 WordList* wordSearch(HashTable* dict, string inp) {
 	
-	int key = int(inp[0]) - 97;
+	inp = ucFirstletter(inp);
+	int key = int(inp[0]) - 65;
 	WordList* list = dict[key].head;
 
 	while (list != NULL) {
