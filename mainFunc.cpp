@@ -102,6 +102,7 @@ void editWord(HashTable*& dict)
 			if (n == 4) tmpWord->info.type.push_back("adv");
 			string d = "";
 			cout << "Enter the definition: ";;
+			cin.ignore(1000, '\n');
 			getline(cin, d, '\n');
 			tmpWord->info.def.push_back(d);
 		}
