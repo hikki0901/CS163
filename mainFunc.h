@@ -3,3 +3,4 @@
 
 WordList* wordSearch(HashTable* dict, string inp);
 void wordDelete(HashTable*& dict, WordList*& w);
+void editWord(HashTable*& dict);
