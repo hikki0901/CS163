@@ -1,4 +1,5 @@
 #include "UI.h"
+#include <Windows.h>
 
 void gotoxy(short x, short y) {
   HANDLE hConsoleOutput;

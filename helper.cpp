@@ -26,9 +26,15 @@ WordInfo Trans(string r) {
 
 	while ((int(r[i]) >= 48) && (int(r[i]) <= 57))
 		tmp.ID = tmp.ID * 10 + (int(r[i++]) - 48);
+	i++;
 
-	while ((r[i] != ' ') || (r[i + 1] != ' '))
-		if (r[i++] != ' ') tmp.word += r[i - 1];
+	while ((r[i] != ' ') || (r[i + 1] != ' ')) {
+		if ((r[i] == ' ') && (r[i + 1] != ' ') && (r[i - 1] != ' ') && (i > 0)) {
+			tmp.word += " ";
+			i++;
+		}
+		else if (r[i++] != ' ') tmp.word += r[i - 1];
+	}
 
 	if (tmp.word[0] == '-') {
 		tmp.hashKey = int(tmp.word[1]) - 97;
@@ -100,5 +106,22 @@ bool wordCheck(string inp, WordList* w) {
 string ucFirstletter(string s) {
 	if ((s[0] != ' ') && (int(s[0]) >= 97))
 		s[0] = s[0] - 32;
+	return s;
+}
+
+string unTrans(WordInfo w) {
+
+	string s = to_string(w.ID) + " " + w.word + "  ";
+
+	if (w.word[0] == '-') s += w.def[0];
+	else {
+		if (w.type.size() == 1) s += w.type[0] + ". " + w.def[0];
+		else {
+			for (int i = 0; i < w.type.size(); i++)
+				s += "-" + w.type[i] + ". " + w.def[i] + " ";
+			return s.substr(0, s.size() - 1);
+		}
+	}
+
 	return s;
 }

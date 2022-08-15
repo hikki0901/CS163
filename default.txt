@@ -1,3 +1,5 @@
+A 
+
 1 A-  prefix. (also an- before a vowel sound) not, without (amoral). [greek]
 2 Aa  abbr. 1 automobile association. 2 alcoholics anonymous. 3 anti-aircraft.
 3 Aardvark  n. Mammal with a tubular snout and a long tongue, feeding on termites. [afrikaans]
@@ -8,6 +10,9 @@
 8 Abandon  -v. 1 give up. 2 forsake, desert. 3 (often foll. By to; often refl.) Yield to a passion, another's control, etc. -n. Freedom from inhibitions.  abandonment n. [french: related to *ad-, *ban]
 9 Abandoned  adj. 1 deserted, forsaken. 2 unrestrained, profligate.
 10 Abase  v. (-sing) (also refl.) Humiliate, degrade.  abasement n. [french: related to *ad-, *base2]
+
+B 
+ 
 994 B1  n. (pl. Bs or b's) 1 (also b) second letter of the alphabet. 2 mus. Seventh note of the diatonic scale of c major. 3 second hypothetical person or example. 4 second highest category (of roads, academic marks, etc.). 5 (usu. B) algebra second known quantity.
 995 B2  symb. Boron.
 996 B3  abbr. (also b.) Black (pencil-lead).
@@ -15,10 +20,13 @@
 998 Ba  abbr. 1 bachelor of arts. 2 british airways.
 999 Ba  symb. Barium.
 1000 Baa  -v. (baas, baaed or baa'd) bleat. -n. Sheep's cry. [imitative]
-1001 Babble  -v.  -ling) 1 a talk, chatter, or say incoherently or excessively. B (of a stream etc.) Murmur. 2 repeat or divulge foolishly. -n.  -n.  -n.  -n. 1 babbling. 2 murmur of voices, water, etc. [imitative] -n. 1 babbling. 2 murmur of voices, water, etc. [imitative] -n.  -n. 1 babbling. 2 murmur of voices, water, etc. [imitative] -n. 1 babbling. 2 murmur of voices, water, etc. [imitative] -n. 1 babbling. 2 murmur of voices, water, etc. [imitative] -n. 1 babbling. 2 murmur of voices, water, etc. [imitative] -n. 1 babbling. 2 murmur of voices, water, etc. [imitative]
+1001 Babble  -v. (-ling) 1 a talk, chatter, or say incoherently or excessively. B (of a stream etc.) Murmur. 2 repeat or divulge foolishly. -n. 1 babbling. 2 murmur of voices, water, etc. [imitative]
 1002 Babe  n. 1 literary baby. 2 innocent or helpless person. 3 us slang young woman. [as *baby]
 1003 Babel  n. 1 confused noise, esp. Of voices. 2 scene of confusion. [hebrew, = babylon (gen. 11)]
 1004 Baboon  n. Large long-nosed african and arabian monkey. [french or medieval latin]
+
+C
+
 1757 Cacophony  n. (pl. -ies) harsh discordant sound.  cacophonous adj. [greek kakos bad, phone sound]
 1758 Cactus  n. (pl. -ti or cactuses) plant with a thick fleshy stem and usu. Spines but no leaves. [latin from greek]
 1759 Cad  abbr. Computer aided design.
@@ -33,6 +41,9 @@
 1768 Cadence  n. 1 rhythm; the measure or beat of a sound or movement. 2 fall in pitch of the voice. 3 tonal inflection. 4 close of a musical phrase. [latin cado fall]
 1769 Cadenza  n. Virtuoso passage for a soloist. [italian: related to *cadence]
 1770 Cadet  n. Young trainee for the armed services or police force.  cadetship n. [french, ultimately from latin caput head]
+ 
+D 
+ 
 3413 D1  n. (also d) (pl. Ds or d's) 1 fourth letter of the alphabet. 2 mus. Second note of the diatonic scale of c major. 3 (as a roman numeral) 500. 4 = *dee. 5 fourth highest class or category (of academic marks etc.).
 3414 D2  symb. Deuterium.
 3415 D.  Abbr. 1 died. 2 departs. 3 daughter. 4 hist. (pre-decimal) penny. [sense 4 from latin *denarius]
@@ -43,6 +54,9 @@
 3439 Damselfly  n. Insect like a dragonfly but with wings folded when resting.
 3440 Damson  n. 1 (in full damson plum) small dark-purple plum. 2 dark-purple colour. [latin: related to *damascene]
 3441 Dan  n. 1 grade of proficiency in judo. 2 holder of such a grade. [japanese]
+ 
+E 
+ 
 4304 E1  n. (also e) (pl. Es or e's) 1 fifth letter of the alphabet. 2 mus. Third note of the diatonic scale of c major.
 4305 E2  abbr. (also e.) 1 east, eastern. 2 see *e-number.
 4306 E-  prefix. see *ex-1 before some consonants.
@@ -50,6 +64,9 @@
 4308 Each other  pron. One another.
 4309 Each way  adj. (of a bet) backing a horse etc. To win or to come second or third.
 4310 Eager  adj. Keen, enthusiastic (eager to learn; eager for news).  eagerly adv. Eagerness n. [latin acer keen]
+
+F
+
 4802 Espresso  n. (also expresso) (pl. -s) strong black coffee made under steam pressure.  [italian, = pressed out]
 4803 Esprit  n. Sprightliness, wit.  esprit de corps devotion to and pride in one's group. [french: related to *spirit]
 4804 Espy  v. (-ies, -ied) catch sight of. [french: related to *spy]
@@ -60,13 +77,19 @@
 4809 Essay  -n. 1 short piece of writing on a given subject. 2 (often foll. By at, in) formal attempt. -v. Attempt.  essayist n. [latin exigo weigh: cf. *assay]
 4810 Essence  n. 1 fundamental nature; inherent characteristics. 2 a extract got by distillation etc. B perfume.  of the essence indispensable. In essence fundamentally. [latin esse be]
 4811 Et cetera  (also etcetera) -adv. 1 and the rest. 2 and so on. -n. (in pl.) The usual extras. [latin]
-5778 Gaff1  -n. 1 a stick with an iron hook for landing large fish. B barbed fishing-spear. 2 spar to which the head of a fore-and-aft sail is bent. -v. Seize (a fish) with a gaff. [proven�al gaf hook]
+
+G
+
+5778 Gaff1  -n. 1 a stick with an iron hook for landing large fish. B barbed fishing-spear. 2 spar to which the head of a fore-and-aft sail is bent. -v. Seize (a fish) with a gaff. [provençal gaf hook]
 5779 Gaff2  n. Slang  blow the gaff reveal a plot or secret. [origin unknown]
 5780 Gaffe  n. Blunder; indiscreet act or remark. [french]
 5781 Gaffer  n. 1 old fellow. 2 colloq. Foreman, boss. 3 chief electrician in a film or television production unit. [probably from *godfather]
 5782 Gag  -n. 1 thing thrust into or tied across the mouth, esp. To prevent speaking or crying out. 2 joke or comic scene. 3 parliamentary closure. 4 thing restricting free speech. -v. (-gg-) 1 apply a gag to. 2 silence; deprive of free speech. 3 choke, retch. 4 make gags as a comedian etc. [origin uncertain]
 5783 Gaga  adj. Slang 1 senile. 2 slightly crazy. [french]
 5784 Gage1  n. 1 pledge; thing deposited as security. 2 symbol of a challenge to fight, esp. A glove thrown down. [germanic: related to *wed, *wage]
+
+H
+
 6369 Habitable  adj. Suitable for living in.  habitability n. [latin habito inhabit]
 6370 Habitat  n. Natural home of an animal or plant. [latin, = it dwells]
 6371 Habitation  n. 1 inhabiting (fit for habitation). 2 house or home.
@@ -79,6 +102,9 @@
 6378 Haiku  n. (pl. Same) japanese three-part poem of usu. 17 syllables. [japanese]
 6379 Hail1  -n. 1 pellets of frozen rain. 2 (foll. By of) barrage or onslaught. -v. 1 a (prec. By it as subject) hail falls. B come down forcefully. 2 pour down (blows, words, etc.). [old english]
 6380 Hail2  -v. 1 signal to (a taxi etc.) To stop. 2 greet enthusiastically. 3 acclaim (hailed him king). 4 (foll. By from) originate or come (hails from leeds). -int. Archaic or joc. Expressing greeting. -n. Act of hailing. [old norse heill: related to *wassail]
+
+I
+
 7390 -ible  suffix forming adjectives meaning ‘that may or may be’ (forcible; possible). [latin]
 7391 -ibly  suffix forming adverbs corresponding to adjectives in -ible.
 7392 Ibo  n. (also igbo) (pl. Same or -s) 1 member of a black people of se nigeria. 2 their language. [native name]
@@ -89,16 +115,22 @@
 7397 Ice-axe  n. Cutting tool used by mountaineers.
 7398 Iceberg  n. Large floating mass of ice.  the tip of the iceberg small perceptible part of something very large or complex. [dutch]
 7399 Iceberg lettuce  n. Crisp type of round lettuce.
+
+J
+
 8053 Jacquard  n. 1 apparatus with perforated cards, for weaving figured fabrics. 2 (in full jacquard loom) loom with this. 3 fabric or article so made. [name of its inventor]
 8054 Jacuzzi  n. (pl. -s) propr. Large bath with massaging underwater jets of water. [name of its inventor and manufacturers]
 8055 Jade1  n. 1 hard usu. Green stone used for ornaments etc. 2 green colour of jade. [spanish ijada from latin ilia flanks (named as a cure for colic)]
 8056 Jade2  n. 1 inferior or worn-out horse. 2 derog. Disreputable woman. [origin unknown]
 8057 Jaded  adj. Tired out; surfeited.
 8058 J'adoube  int. Chess declaration of the intention to adjust a piece without moving it. [french, = i adjust]
-8059 Jag1  -n. Sharp projection of rock etc. -v. (-gg-) 1 cut or tear unevenly. 2 m -gg-) 1 cut or tear unevenly. 2 m -gg-) 1 cut or tear unevenly. 2 m -gg- -gg-) 1 cut or tear unevenly. 2 m -gg-) 1 cut or tear unevenly. 2 make i -gg-) 1 cut or tear unevenly. 2 m -gg-) 1 cut or tear unevenly. 2 make i -gg-) 1 cut or tear unevenly. 2 make indentations in. [imitative] -gg-) 1 cut or tear unevenly. 2 make indentations in. [imitative]
+8059 Jag1  -n. Sharp projection of rock etc. -v. (-gg-) 1 cut or tear unevenly. 2 make indentations in. [imitative]
 8060 Jag2  n. Slang 1 drinking bout. 2 period of indulgence in an activity, emotion, etc. [originally dial., = load]
 8061 Jagged  adj. 1 unevenly cut or torn. 2 deeply indented.  jaggedly adv. Jaggedness n.
 8062 Jaguar  n. Large american flesh-eating spotted animal of the cat family. [tupi]
+ 
+K 
+ 
 8218 K1  n. (also k) (pl. Ks or k's) eleventh letter of the alphabet.
 8219 K2  abbr. (also k.) 1 kelvin(s). 2 king, king's. 3 köchel (catalogue of mozart's works). 4 (also k) (prec. By a numeral) a computing unit of 1,024 (i.e. 210) bytes or bits, or loosely 1,000. B 1,000. [sense 4 as abbreviation of *kilo-]
 8220 K3  symb. Potassium. [latin kalium]
@@ -112,6 +144,9 @@
 8228 Kaleidoscope  n. 1 tube containing mirrors and pieces of coloured glass etc. Producing changing reflected patterns when shaken. 2 constantly changing pattern, group, etc.  kaleidoscopic adj. [greek kalos beautiful, eidos form, *-scope]
 8229 Kalends  var. Of *calends.
 8230 Kaleyard  n. Scot. Kitchen garden.
+
+L
+
 8368 Labour camp  n. Prison camp enforcing a regime of hard labour.
 8369 Labour day  n. May 1 (or in the us and canada the first monday in september), celebrated in honour of working people.
 8370 Labourer  n. (us laborer) person doing unskilled, usu. Manual, work for wages.
@@ -125,6 +160,9 @@
 8378 Lace  -n. 1 fine open fabric or trimming, made by weaving thread in patterns. 2 cord etc. Passed through holes or hooks for fastening shoes etc. -v. (-cing) 1 (usu. Foll. By up) fasten or tighten with a lace or laces. 2 add spirits to (a drink). 3 (often foll. By through) pass (a shoelace etc.) Through. [latin laqueus noose]
 8379 Lacerate  v. (-ting) 1 mangle or tear (esp. Flesh etc.). 2 cause pain to (the feelings etc.).  laceration n. [latin lacer torn]
 8380 Lace-up  -n. Shoe fastened with a lace. -attrib. Adj. (of a shoe etc.) Fastened by a lace or laces.
+
+M
+
 8969 Mace1  n. 1 staff of office, esp. Symbol of the speaker's authority in the house of commons. 2 person bearing this. [french from romanic]
 8970 Mace2  n. Dried outer covering of the nutmeg as a spice. [latin macir]
 8971 Macédoine  n. Mixed vegetables or fruit, esp. Diced or jellied. [french]
@@ -133,6 +171,9 @@
 8974 Machete  n. Broad heavy knife, esp. Of central america. [spanish from latin]
 8975 Machiavellian  adj. Elaborately cunning; scheming, unscrupulous.  machiavellianism n.  [machiavelli, name of a political writer]
 8976 Machination  n. (usu. In pl.) Plot, intrigue.  machinate v. (-ting). [latin: related to *machine]
+
+N
+
 9983 Nadir  n. 1 part of the celestial sphere directly below an observer. 2 lowest point; time of deep despair. [arabic, = opposite]
 9984 Naevus  n. (us nevus) (pl. Naevi) 1 raised red birthmark. 2 = *mole2. [latin]
 9985 Naff  adj. Slang 1 unfashionable. 2 rubbishy. [origin unknown]
@@ -142,6 +183,9 @@
 9989 Nail  -n. 1 small metal spike hammered in to join things together or as a peg or decoration. 2 horny covering on the upper surface of the tip of the human finger or toe. -v. 1 fasten with a nail or nails. 2 secure or get hold of (a person or thing). 3 keep (attention etc.) Fixed. 4 expose or discover (a lie or liar).  nail down 1 bind (a person) to a promise etc. 2 define precisely. 3 fasten (a thing) with nails. Nail in a person's coffin something thought to increase the risk of death. On the nail (esp. Of payment) without delay. [old english]
 9990 Nail-file  n. Roughened metal or emery strip used for smoothing the nails.
 9991 Nail polish  n. (also nail varnish) varnish, usu. Coloured, applied to the nails.
+
+O
+
 10318 Obey  v. 1 a carry out the command of. B carry out (a command). 2 do what one is told to do. 3 be actuated by (a force or impulse). [latin obedio from audio hear]
 10319 Obfuscate  v. (-ting) 1 obscure or confuse (a mind, topic, etc.). 2 stupefy, bewilder.  obfuscation n. [latin fuscus dark]
 10320 Obituary  n. (pl. -ies) 1 notice of a death or deaths. 2 account of the life of a deceased person. 3 (attrib.) Of or serving as an obituary. [latin obitus death]
@@ -150,6 +194,9 @@
 10323 Objection  n. 1 expression or feeling of opposition or disapproval. 2 objecting. 3 adverse reason or statement. [latin: related to *object]
 10324 Objectionable  adj. 1 unpleasant, offensive. 2 open to objection.  objectionably adv.
 10325 Objective  -adj. 1 external to the mind; actually existing. 2 dealing with outward things or exhibiting facts uncoloured by feelings or opinions. 3 gram. (of a case or word) in the form appropriate to the object. -n. 1 something sought or aimed at. 2 gram. Objective case.  objectively adv. Objectivity n. [medieval latin: related to *object]
+ 
+P 
+ 
 10751 P1  n. (also p) (pl. Ps or p's) sixteenth letter of the alphabet.
 10752 P2  abbr. (also p.) 1 (on road signs) parking. 2 chess pawn. 3 proprietary.
 10753 P3  symb.  Phosphorus.
@@ -164,14 +211,20 @@
 10763 Pacemaker  n. 1 competitor who sets the pace in a race. 2 natural or artificial device for stimulating the heart muscle.
 10764 Pace-setter  n. 1 leader. 2 = *pacemaker 1.
 10765 Pachyderm  n. Thick-skinned mammal, esp. An elephant or rhinoceros.  pachydermatous adj. [greek pakhus thick, derma skin]
+
+Q
+
 12230 Quadragesima  n. First sunday in lent. [latin quadragesimus fortieth]
 12231 Quadrangle  n. 1 four-sided plane figure, esp. A square or rectangle. 2 four-sided court, esp. In colleges.  quadrangular adj. [latin: related to *quadri-, *angle1]
 12232 Quadrant  n. 1 quarter of a circle's circumference. 2 quarter of a circle enclosed by two radii at right angles. 3 quarter of a sphere etc. 4 any of four parts of a plane divided by two lines at right angles. 5 a graduated quarter-circular strip of metal etc. B instrument graduated (esp. Through an arc of 90°) for measuring angles. [latin quadrans -ant-]
 12233 Quadraphonic  adj. (of sound reproduction) using four transmission channels.  quadraphonically adv. Quadraphonics n.pl. [from *quadri-, *stereophonic]
-12234 Quadrate  -adj. Esp. Anat. & zool. Square or rectangular. -n. Rectangular object. -v. (-ting) make square.  [latin quadro make square]
+12234 Quadrate  -adj. Esp. Anat. & zool. Square or rectangular. -n. Rectangular object. -v. (-ting) make square.  [latin quadro make square]12236 Quadri-  comb. Form four. [latin quattuor four]
 12237 Quadriceps  n. Four-headed muscle at the front of the thigh. [from *quadri-, *biceps]
 12239 Quadrille  n. 1 a kind of square dance. 2 music for this. [french]
 12240 Quadriplegia  n.  Paralysis of all four limbs.  quadriplegic adj. & n. [from *quadri-, greek plege a blow]
+
+R
+
 12335 Racketeer  n. Person who operates a dishonest business.  racketeering n.
 12336 Rack-rent  n. Extortionate rent.
 12337 Raconteur  n. Teller of anecdotes. [french: related to *recount]
@@ -181,6 +234,9 @@
 12341 Rad  n. Unit of absorbed dose of ionizing radiation. [from radiation absorbed dose]
 12342 Rada  abbr. Royal academy of dramatic art.
 12343 Radar  n. 1 system for detecting the direction, range, or presence of objects, by sending out pulses of high frequency electromagnetic waves which they reflect. 2 apparatus for this. [from radio detection and ranging]
+
+S
+
 13251 Saboteur  n. Person who commits sabotage. [french]
 13252 Sabre  n. (us saber) 1 curved cavalry sword. 2 light tapering fencing-sword. [french from german sabel]
 13253 Sabre-rattling  n. Display or threat of military force.
@@ -191,6 +247,9 @@
 13258 Sachet  n. 1 small bag or packet containing shampoo etc. 2 small scented bag for perfuming drawers etc. [french diminutive: related to *sac]
 13259 Sack1  -n. 1 a large strong bag for storage or conveyance. B quantity contained in a sack. 2 (prec. By the) colloq. Dismissal from employment. 3 (prec. By the) us slang bed. -v. 1 put into a sack or sacks. 2 colloq. Dismiss from employment. [latin saccus] 
 13260 Sack2  -v. Plunder and destroy (a captured town etc.). -n. Such sacking. [french mettre à sac put in a sack]
+
+T
+
 15258 Tabard  n. 1 herald's official coat emblazoned with royal arms. 2 woman's or girl's sleeveless jerkin. 3 hist. Knight's short emblazoned garment worn over armour. [french]
 15259 Tabasco  n. 1 pungent pepper. 2 (tabasco) propr. Sauce made from this. [tabasco in mexico]
 15260 Tabby  n. (pl. -ies) 1  grey or brownish cat with dark stripes. 2 a kind of watered silk. [french from arabic]
@@ -199,11 +258,14 @@
 15263 Table  -n. 1 flat surface on a leg or legs, used for eating, working at, etc. 2 a food provided in a household (keeps a good table). B group seated for dinner etc. 3 a set of facts or figures in columns etc. (table of contents). B matter contained in this. C = *multiplication table. -v. (-ling) 1 bring forward for discussion etc. At a meeting. 2 esp. Us postpone consideration of (a matter).  at table taking a meal at a table. On the table offered for discussion. Turn the tables (often foll. By on) reverse circumstances to one's advantage (against). Under the table colloq. 1 very drunk.
 15264 Tactic  n. 1 tactical manoeuvre. 2 = *tactics. [greek from tasso arrange]
 15265 Tactical  adj. 1 of tactics (tactical retreat). 2 (of bombing etc.) Done in direct support of military or naval operations. 3 adroitly planning or adroitly planned.  tactically adv.
-15266 Tactics  n. l. 1 (also treated as sing.) Disposition of armed forces, esp. In warfare. 2 short-term procedure adopted in carrying out a scheme or achieving an end.  tactician n.
+15266 Tactics  n.pl. 1 (also treated as sing.) Disposition of armed forces, esp. In warfare. 2 short-term procedure adopted in carrying out a scheme or achieving an end.  tactician n.
 15267 Tactile  adj. 1 of the sense of touch. 2 perceived by touch; tangible.  tactility n. [latin: related to *tact]
 15268 Tactless  adj. Having or showing no tact.  tactlessly adv.
 15269 Tadpole  n. Larva, esp. Of a frog, toad, or newt. [related to *toad, *poll]
 15270 Taffeta  n. Fine lustrous silk or silklike fabric. [french or medieval latin from persian]
+
+U
+
 16144 Unabridged  adj. Complete; not abridged.
 16145 Unacademic  adj. (of a person, book, etc.) Not academic.
 16146 Unacceptable  adj. Not acceptable.  unacceptably adv.
@@ -221,6 +283,9 @@
 16158 Unadvised  adj. 1 indiscreet; rash. 2 without advice.  unadvisedly adv.
 16159 Unaffected  adj. 1 (usu. Foll. By by) not affected. 2 free from affectation.  unaffectedly adv.
 16160 Unaffiliated  adj. Not affiliated.
+
+V
+
 16675 Vacancy  n. (pl. -ies) 1 being vacant. 2 unoccupied job. 3 available room in a hotel etc.
 16676 Vacant  adj. 1 not filled or occupied. 2 not mentally active; showing no interest.  vacantly adv. [latin: related to *vacate]
 16677 Vacant possession  n. Ownership of an unoccupied house etc.
@@ -233,6 +298,9 @@
 16684 Valuable  -adj. Of great value, price, or worth. -n. (usu. In pl.) Valuable thing.  valuably adv.
 16685 Valuation  n. 1 estimation (esp. Professional) of a thing's worth. 2 worth so estimated.
 16686 Value  -n. 1 worth, desirability, or utility, or the qualities on which these depend. 2 worth as estimated (set a high value on my time). 3 amount for which a thing can be exchanged in the open market. 4 equivalent of a thing. 5 (in full value for money) something well worth the money spent. 6 effectiveness (news value). 7 (in pl.) One's principles, priorities, or standards. 8 mus. Duration of a note. 9 math. Amount denoted by an algebraic term. -v. (-ues, -ued, -uing) 1 estimate the value of, esp. Professionally. 2 have a high or specified opinion of.  valueless adj. Valuer n. [french past part. Of valoir be worth, from latin valeo]
+
+W
+
 16927 Waist  n. 1 a part of the human body below the ribs and above the hips; narrower middle part of the normal human figure. B circumference of this. 2 narrow middle of a violin, wasp, etc. 3 a part of a garment encircling the waist. B us blouse, bodice. 4 part of a ship between the forecastle and the quarterdeck.  waisted adj. (also in comb.). [old english: related to *wax2]
 16928 Waistband  n. Strip of cloth forming the waist of a garment.
 16929 Waistcoat  n. Close-fitting waist-length garment without sleeves or collar, worn usu. Over a shirt and under a jacket.
@@ -246,7 +314,10 @@
 16937 Waitress  n. Woman who serves at table in a hotel or restaurant etc.
 16938 Waive  v. (-ving) refrain from insisting on or using (a right, claim, opportunity, etc.). [anglo-french weyver: related to *waif]
 16939 Waiver  n. Law 1 waiving of a legal right etc. 2 document recording this.
-16940 Wake1  -v.  -king; past woke or waked; past part. Woken or waked) 1 (often foll. By up) (cause to) cease to sleep. 2 (often foll. By up) (cause to) become alert or attentive. 3 archaic (except as waking adj. & n.) Be awake (waking hours). 4 disturb with noise. 5 evoke (an echo). -n.  -n.  -n.  -n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking. 2 (usu. In pl.) Annual holiday in (industrial) northern england. [old english] -n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking -n.  -n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking. 2 (usu. In pl.) Annual holiday in (industrial) northern england. [old english] -n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking. 2 (usu.  -n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking. 2 (usu. In pl.) Annual holiday in (industrial) northern england. [old english] -n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking. 2 (usu. In pl.) Annual holiday in (industrial) northern england. [old english] -n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking. 2 (usu. In pl.) Annual holiday in (industrial) northern england. [old english]
+16940 Wake1  -v. (-king; past woke or waked; past part. Woken or waked) 1 (often foll. By up) (cause to) cease to sleep. 2 (often foll. By up) (cause to) become alert or attentive. 3 archaic (except as waking adj. & n.) Be awake (waking hours). 4 disturb with noise. 5 evoke (an echo). -n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking. 2 (usu. In pl.) Annual holiday in (industrial) northern england. [old english]
+
+Y
+
 17449 Yale lock  n. Propr. Type of lock with a revolving barrel, used for doors etc. [yale, name of its inventor]
 17450 Yam  n. 1 a tropical or subtropical climbing plant. B edible starchy tuber of this. 2 us sweet potato. [portuguese or spanish]
 17451 Yammer  colloq. Or dial. -n. 1 lament, wail, grumble. 2 voluble talk. -v. Utter a yammer. [old english]
@@ -259,6 +330,9 @@
 17458 Yard1  n. 1 unit of linear measure (3 ft., 0.9144 metre). 2 this length of material. 3 square or cubic yard. 4 spar slung across a mast for a sail to hang from. 5 (in pl.; foll. By of) colloq. A great length. [old english, = stick]
 17459 Yard2  n. 1 piece of enclosed ground, esp. Attached to a building or used for a particular purpose. 2 us & austral. Garden of a house. [old english, = enclosure]
 17460 Yardage  n. Number of yards of material etc.
+
+Z
+
 17514 Zebra crossing  n. Striped street-crossing where pedestrians have precedence.
 17515 Zebu  n. (pl. Same or -s) humped ox of asia and africa. [french]
 17516 Zed  n. Letter z. [greek *zeta]

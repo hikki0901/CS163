@@ -1,4 +1,5 @@
 #include "mainFunc.h"
+#include "fileExe.h"
 
 WordList* wordSearch(HashTable* dict, string inp) {
 	
@@ -6,6 +7,7 @@ WordList* wordSearch(HashTable* dict, string inp) {
 	int key = int(inp[0]) - 65;
 	WordList* list = dict[key].head;
 
+	
 	while (list != NULL) {
 		if (wordCheck(inp, list))
 			return list;
@@ -25,7 +27,10 @@ void wordDelete(HashTable*& dict, WordList*& w) {
 	if ((H == T) && (wordCheck(H->info.word, w) == true)) {
 		H = NULL;
 		T = NULL;
-	} else if (wordCheck(H->info.word, w) == true) {
+	} 
+	
+	if (wordCheck(H->info.word, w) == true) {
+
 		if (H->right == NULL) {
 			H = NULL;
 			T = NULL;		
@@ -36,7 +41,8 @@ void wordDelete(HashTable*& dict, WordList*& w) {
 	} else if (wordCheck(T->info.word, w) == true) {
 		T = T->left;
 		T->right = NULL;
-	} else {
+	}
+	else {
 		WordList* tmp = H;
 
 		do {
@@ -64,14 +70,69 @@ void wordDelete(HashTable*& dict, WordList*& w) {
 
 	dict[i].head = H;
 	dict[i].tail = T;
+
 }
 
+void addWord(HashTable*& dict) {
 
-void editWord(HashTable*& dict)
+	WordInfo tmp;
+	cout << "Enter the word you want to add: ";
+	cin.ignore(1000, '\n');
+	getline(cin, tmp.word);
+
+	tmp.word = ucFirstletter(tmp.word);
+	tmp.hashKey = int(tmp.word[0]) - 65;
+	tmp.addition = true;
+
+	int maxID = -1;
+	for (int i = 0; i < 26; i++) {
+		WordList* p = dict[i].head;
+
+		while (p != NULL) {
+			maxID = max(maxID, p->info.ID);
+			p = p->right;
+		}
+	}
+	tmp.ID = maxID + 1;
+
+	cout << "How many word types does your word have? ";
+	int tCount; cin >> tCount;
+
+	for (int i = 0; i < tCount; i++) {
+		cout << "What is your word type? " << endl;
+		cout << "1. noun     2. verb     3. adjective     4. adverb" << endl;
+		cout << "Your choice (enter the number correspond with the word type): ";
+		int n; cin >> n;
+		if (n == 1) tmp.type.push_back("n");
+		if (n == 2) tmp.type.push_back("v");
+		if (n == 3) tmp.type.push_back("adj");
+		if (n == 4) tmp.type.push_back("adv");
+
+		string d = "";
+		cout << "Enter the definition: ";
+		cin.ignore(1000, '\n');
+		getline(cin, d);
+		tmp.def.push_back(d);
+	}
+
+	WordList* addedWord = new WordList();
+	addedWord->info = tmp;
+	InsertTable(dict, addedWord);
+
+
+}
+
+void favChange(HashTable*& dict, string w, bool flag) {
+
+	WordList* tmp = wordSearch(dict, w);
+
+	tmp->info.fav = flag;
+
+
+}
+
+void editWord(HashTable*& dict,string & tmp)
 {
-	string tmp;
-	cout << "Enter the word you want to edit: ";
-	getline(cin, tmp);
 	WordList* tmpWord = wordSearch(dict, tmp);
 	if (tmpWord == NULL)
 	{
@@ -101,17 +162,41 @@ void editWord(HashTable*& dict)
 			if (n == 3) tmpWord->info.type.push_back("adj");
 			if (n == 4) tmpWord->info.type.push_back("adv");
 			string d = "";
-			cout << "Enter the definition: ";;
+			cout << "Enter the definition: ";
 			cin.ignore(1000, '\n');
 			getline(cin, d, '\n');
 			tmpWord->info.def.push_back(d);
 		}
-		cout << tmpWord->info.word << endl;
-		cout << "Definition:" << endl;
-		for (int i = 0; i < tmpWord->info.type.size(); i++)
-		{
-			cout << tmpWord->info.type[i] << "   " << tmpWord->info.def[i] << endl;
+
+	}
+
+}
+
+void printWord(WordInfo w) {
+	cout << w.word << endl;
+	if (w.type.size() == 1) cout << " (" << w.type[0] << "): " << w.def[0] << endl;
+	else {
+		for (int i = 0; i < w.type.size(); i++)
+			cout << " (" << w.type[i] << "): " << w.def[i] << endl;
+	}
+}
+
+void printFav() {
+
+	string s;
+	WordInfo tmp;
+
+	ifstream fin("favorite.txt");
+
+	while (getline(fin, s)) {
+		if (s == "") continue;
+		if ((int(s[0]) < 48) || (int(s[0]) > 57)) continue;
+		else {
+			tmp = Trans(s);
+			
+			printWord(tmp);
 		}
 	}
 
+	fin.close();
 }

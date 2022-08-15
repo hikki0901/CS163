@@ -5,3 +5,4 @@
 
 void fileRead(HashTable*& dict, string dir, bool flag);
 void fileWrite(HashTable*& dict);
+void dataReset(HashTable*& dict);
