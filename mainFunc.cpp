@@ -106,7 +106,12 @@ void editWord(HashTable*& dict)
 			getline(cin, d, '\n');
 			tmpWord->info.def.push_back(d);
 		}
-
+		cout << tmpWord->info.word << endl;
+		cout << "Definition:" << endl;
+		for (int i = 0; i < tmpWord->info.type.size(); i++)
+		{
+			cout << tmpWord->info.type[i] << "   " << tmpWord->info.def[i] << endl;
+		}
 	}
 
 }
