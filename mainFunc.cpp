@@ -65,3 +65,47 @@ void wordDelete(HashTable*& dict, WordList*& w) {
 	dict[i].head = H;
 	dict[i].tail = T;
 }
+
+
+void editWord(HashTable*& dict)
+{
+	string tmp;
+	cout << "Enter the word you want to edit: ";
+	getline(cin, tmp);
+	WordList* tmpWord = wordSearch(dict, tmp);
+	if (tmpWord == NULL)
+	{
+		cout << "No words matches the word you entered" << endl;
+		return;
+	}
+	else
+	{
+		tmpWord->info.type.clear();
+		tmpWord->info.def.clear();
+		cout << "How many word types does your word have? ";
+		int tCount; cin >> tCount;
+
+		for (int i = 0; i < tCount; i++) {
+			cout << i + 1 << endl;
+			cout << "What is your word type? " << endl;
+			cout << "1. noun     2. verb     3. adjective     4. adverb" << endl;
+			cout << "Your choice (enter the number correspond with the word type): ";
+			int n; cin >> n;
+			while (n < 1 || n > 4)
+			{
+				cout << "Invalid choice, choose again: ";
+				cin >> n;
+			}
+			if (n == 1) tmpWord->info.type.push_back("n");
+			if (n == 2) tmpWord->info.type.push_back("v");
+			if (n == 3) tmpWord->info.type.push_back("adj");
+			if (n == 4) tmpWord->info.type.push_back("adv");
+			string d = "";
+			cout << "Enter the definition: ";;
+			getline(cin, d, '\n');
+			tmpWord->info.def.push_back(d);
+		}
+
+	}
+
+}
