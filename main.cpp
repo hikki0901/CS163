@@ -10,9 +10,9 @@ int main() {
 		dict[i].tail = NULL;
 	}
 	fileRead(dict, "word.txt", false);
-	int choice = 0;
-
+	fileRead(dict, "addition.txt", false);
 	Menu(dict);
+	fileWrite(dict);
 
 	return 0;
 }

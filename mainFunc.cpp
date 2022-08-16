@@ -79,7 +79,6 @@ void addWord(HashTable*& dict) {
 	cout << "Enter the word you want to add: ";
 	cin.ignore(1000, '\n');
 	getline(cin, tmp.word);
-
 	tmp.word = ucFirstletter(tmp.word);
 	tmp.hashKey = int(tmp.word[0]) - 65;
 	tmp.addition = true;

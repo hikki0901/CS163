@@ -9,6 +9,7 @@ void start(int& choice)
 	cout << "CS163 - Dictionary - Group 12" << endl;
 	cout << "1. Search for a word    2. Add new words" << endl;
 	cout << "3. Reset the data       4. View the favorite list" << endl;
+	cout << "5. Exit" << endl;
 	cin >> choice;
 }
 
@@ -58,6 +59,7 @@ void searchMenu(HashTable* dict)
 		editWord(dict, tmpWord->info.word);
 		cout << "Edit the word sucessfully" << endl;
 		system("pause");
+		fileWrite(dict);
 
 	}
 	if (choice == 2)
@@ -93,7 +95,7 @@ void Menu(HashTable* dict)
 	do
 	{
 		start(choice);
-	} while (choice < 1 || choice > 4);
+	} while (choice < 1 || choice > 5);
 	if (choice == 1)
 	{
 		searchMenu(dict);
@@ -118,5 +120,10 @@ void Menu(HashTable* dict)
 		printFav();
 		system("pause");
 		return Menu(dict);
+	}
+	if (choice == 5)
+	{
+		system("pause");
+		return;
 	}
 }

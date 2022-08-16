@@ -65,7 +65,7 @@ void fileWrite(HashTable*& dict) {
 	}
 	
 	ofstream f_1;
-	f_1.open("word1.txt", ios::out | ios::trunc);
+	f_1.open("word.txt", ios::out | ios::trunc);
 
 	for (int i = 0; i < deFile.size(); i++)
 		f_1 << deFile[i] << endl;
@@ -73,7 +73,7 @@ void fileWrite(HashTable*& dict) {
 	f_1.close();
 
 	ofstream f_2;
-	f_2.open("addition1.txt", ios::out | ios::trunc);
+	f_2.open("addition.txt", ios::out | ios::trunc);
 
 	for (int i = 0; i < adFile.size(); i++)
 		f_2 << adFile[i] << endl;
@@ -81,7 +81,7 @@ void fileWrite(HashTable*& dict) {
 	f_2.close();
 
 	ofstream f_3;
-	f_3.open("favorite1.txt", ios::out | ios::trunc);
+	f_3.open("favorite.txt", ios::out | ios::trunc);
 
 	for (int i = 0; i < faFile.size(); i++)
 		f_3 << faFile[i] << endl;
