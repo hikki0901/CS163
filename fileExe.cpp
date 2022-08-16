@@ -23,24 +23,6 @@ void fileRead(HashTable*& dict, string dir, bool flag) {
 
 	fin.close();
 	
-	ifstream f_2("favorite.txt");
-
-	string s;
-	WordInfo tmp2;
-
-	while (getline(f_2, s)) {
-		if (s == "") continue;
-		if ((int(s[0]) < 48) || (int(s[0]) > 57)) continue;
-		else {
-			tmp2 = Trans(s);
-
-			WordList* W = wordSearch(dict, tmp2.word);
-			W->info.fav = true;
-
-		}
-	}
-
-	f_2.close();
 }
 
 void fileWrite(HashTable*& dict) {
