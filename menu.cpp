@@ -15,7 +15,7 @@ void start(int& choice)
 
 
 
-void searchMenu(HashTable* dict)
+void searchMenu(HashTable*& dict)
 {
 	int choice;
 	system("cls");
@@ -88,7 +88,7 @@ void searchMenu(HashTable* dict)
 
 }
 
-void Menu(HashTable* dict)
+void Menu(HashTable*& dict)
 {
 	system("cls");
 	int choice = 0;
