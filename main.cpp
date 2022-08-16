@@ -11,6 +11,7 @@ int main() {
 	}
 	fileRead(dict, "word.txt", false);
 	fileRead(dict, "addition.txt", true);
+	favCheck(dict);
 	Menu(dict);
 	fileWrite(dict);
 
