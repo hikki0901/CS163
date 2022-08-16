@@ -76,9 +76,16 @@ void wordDelete(HashTable*& dict, WordList*& w) {
 void addWord(HashTable*& dict) {
 
 	WordInfo tmp;
+
 	cout << "Enter the word you want to add: ";
 	cin.ignore(1000, '\n');
 	getline(cin, tmp.word);
+	WordList* tmpWord = wordSearch(dict, tmp.word);
+	if (tmpWord != NULL)
+	{
+		cout << "The word already exists" << endl;
+		return;
+	}
 	tmp.word = ucFirstletter(tmp.word);
 	tmp.hashKey = int(tmp.word[0]) - 65;
 	tmp.addition = true;
