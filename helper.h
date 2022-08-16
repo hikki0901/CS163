@@ -1,5 +1,6 @@
 #pragma once
 #include "mainStruct.h"
+#include "mainFunc.h"
 
 #include <string>
 
@@ -11,3 +12,5 @@ void Split(string s, string delimiter, vector<string>& defPlaceholder);
 
 bool wordCheck(string inp, WordList* w);
 string ucFirstletter(string s);
+
+void favCheck(HashTable*& dict);
