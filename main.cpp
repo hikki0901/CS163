@@ -10,7 +10,7 @@ int main() {
 		dict[i].tail = NULL;
 	}
 	fileRead(dict, "word.txt", false);
-	fileRead(dict, "addition.txt", false);
+	fileRead(dict, "addition.txt", true);
 	Menu(dict);
 	fileWrite(dict);
 
